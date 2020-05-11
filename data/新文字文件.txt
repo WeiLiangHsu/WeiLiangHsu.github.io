@@ -1,5 +1,5 @@
 body {
-    background: https://weilianghsu.github.io/(https://images.pexels.com/photos/4067968/pexels-photo-4067968.jpeg?cs=srgb&dl=pexels-4067968.jpg&fm=jpg);
+    background:https://weilianghsu.github.io/(https://images.pexels.com/photos/4067968/pexels-photo-4067968.jpeg?cs=srgb&dl=pexels-4067968.jpg&fm=jpg);
     background-attachment:fixed;
     background-position:50% 50%;
     background-size: cover;
