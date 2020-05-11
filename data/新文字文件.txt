@@ -1,5 +1,5 @@
 body {
-    background:https://weilianghsu.github.io/archives/(https://images.pexels.com/photos/4067968/pexels-photo-4067968.jpeg?cs=srgb&dl=pexels-4067968.jpg&fm=jpg)
+    background: (https://images.pexels.com/photos/4067968/pexels-photo-4067968.jpeg?cs=srgb&dl=pexels-4067968.jpg&fm=jpg)
     background-attachment:fixed;//是否随着网页上下滚动而滚动，fixed为固定
     background-position:50% 50%;//图片位置
     background-size: cover;//图片展示大小
