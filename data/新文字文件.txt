@@ -1,6 +1,5 @@
 body {
-    background:https://weilianghsu.github.io/archives/(https://www.google.com/url?sa=i&url=https%3A%2F%2Fzh.pngtree.com%2Ffreebackground%2Fchip-background_549657.html&psig=AOvVaw0VokV1LSfrXUTTilBaUCOz&ust=1589293758903000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIi62eGCrOkCFQAAAAAdAAAAABAD);//图片路径
-    background-repeat: no-repeat;//是否重复平铺
+    background:https://weilianghsu.github.io/archives/(https://images.pexels.com/photos/4067968/pexels-photo-4067968.jpeg?cs=srgb&dl=pexels-4067968.jpg&fm=jpg)
     background-attachment:fixed;//是否随着网页上下滚动而滚动，fixed为固定
     background-position:50% 50%;//图片位置
     background-size: cover;//图片展示大小
