@@ -1,20 +1,20 @@
 body {
-    background: (https://images.pexels.com/photos/4067968/pexels-photo-4067968.jpeg?cs=srgb&dl=pexels-4067968.jpg&fm=jpg)
-    background-attachment:fixed;//是否随着网页上下滚动而滚动，fixed为固定
-    background-position:50% 50%;//图片位置
-    background-size: cover;//图片展示大小
+    background: https://weilianghsu.github.io/(https://images.pexels.com/photos/4067968/pexels-photo-4067968.jpeg?cs=srgb&dl=pexels-4067968.jpg&fm=jpg);
+    background-attachment:fixed;
+    background-position:50% 50%;
+    background-size: cover;
     -webkit-background-size: cover;
     -o-background-size: cover;
     -moz-background-size: cover;
     -ms-background-size: cover;
-    opacity: 0.6;//设置整个页面的透明度。该透明度如果不加在这里会出现bug，bug就是菜单栏无法点击。
+    opacity: 0.6;
      #footer > div > div {
-        color:#000000;//底部文字颜色
+        color:#000000;
     }
 }
 .header-inner {
-    background: #fff;//设置侧边栏透明
-    opacity: 1;//这里设置为1，否则搜索栏会消失
+    background: #fff;
+    opacity: 1;
 }
 .main-inner {
   background: #fff;
